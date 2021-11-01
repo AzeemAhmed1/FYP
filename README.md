@@ -5,3 +5,4 @@ IBM's Watson is a super computer which is not only working in IT but also provid
 
 Watson also understands natural language OR human language through NLP (natural language processing) which is a subfield of artificial intelligence that focuses on the parsing of human language into its elemental pieces. By combining computational linguistics with statistical machine learning techniques and deep learning models, NLP enables computers to process human language in the form of text or voice data.
 
+I have uploaded the code file of video to text as FYP_VideoToText in this repository, also I'll upload the instructions shortly.
