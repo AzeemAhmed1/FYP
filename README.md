@@ -1,8 +1,18 @@
 # FYP
-Well, this is the readme file for my Final Year Project. I will be updating all the things here by the time I make any changes in this project. My supervisor advised me to learn about IBM Watson as I will be working on Natural Language Processing (NLP) algoritms to create text summary of video lectures.
+Well, this is the readme file for my Final Year Project. I will be updating all the things here by the time I make any changes in this project. I will be working on Natural Language Processing (NLP) algoritms to create text summary of video lectures.
 
-IBM's Watson is a super computer which is not only working in IT but also providing its services buisiness automation, advertising, video streaming, healthcare etc..
+when world was hit by cov'19 and universities were closed, teachers were giving online lectures which were saved on some protal and student has to go through the whole lecture to what is this lecture is about, so this idea will save their time by giving them the text summary to have an overview or recall the lecture.
 
-Watson also understands natural language OR human language through NLP (natural language processing) which is a subfield of artificial intelligence that focuses on the parsing of human language into its elemental pieces. By combining computational linguistics with statistical machine learning techniques and deep learning models, NLP enables computers to process human language in the form of text or voice data.
+This project is divided into 3 parts,
+First is about to convert video into audio file then convert that audio file into text using recognizer which is done by moviepy and SpeechRecognition libraries(in python)
+ 
+moviepy library is used to convert the video lecture into audio 
+HOW TO INSTALL moviepy?
+you can simply install the moviepy library in panel by this command
+pip install moviepy
 
-I have uploaded the code file of video to text as FYP_VideoToText in this repository, also I'll upload the instructions shortly.
+
+SpeechRecognition library is used to convert the audio of lecture into text 
+HOW TO INSTALL SpeechRecognition?
+you can simply install the SpeechRecognition library in panel by this command
+pip install SpeechRecognition
